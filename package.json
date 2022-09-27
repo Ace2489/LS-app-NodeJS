@@ -1,0 +1,20 @@
+{
+  "name": "ls-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ace2489/LS-app-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ace2489/LS-app-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Ace2489/LS-app-NodeJS#readme"
+}
